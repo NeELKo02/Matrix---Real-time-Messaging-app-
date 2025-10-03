@@ -1,7 +1,10 @@
 # Matrix Communication Platform
 
 A modern, real-time communication platform built with Python (Flask) backend and React (Vite) frontend, featuring live group chat, direct messaging, Matrix Code Rain interface, and Firebase integration.
-
+<p float="left">
+  <img src="frontend/static/1.png" alt="Journal Home" height = "300"/>
+  <img src="frontend/static/2.png" alt="Menu" height ="300"/>
+</p>
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -168,5 +171,6 @@ python run.py
 This project is for educational and demonstration purposes. Feel free to modify and extend for your needs.
 
 ---
+
 
 **Enter the Matrix of communication. Experience the future of real-time messaging.**
